@@ -19,10 +19,10 @@ In this lab, we'll be making well designed pages with the possibilty to move bet
     - Using generate, add a constructor, setters, getters and a toString.
 
 2. ListView in XML:
-  - Add a `ListView` component to your activity layout file.
-  - Open an XML file for the **custom row** in the layout folder and design it, should at least include:
-    - Name.
-    - Email
+    - Add a `ListView` component to your activity layout file.
+    - Open an XML file for the **custom row** in the layout folder and design it, should at least include:
+        - Name.
+        - Email
 
 3. Creating an ArrayAdapter: 
     - Create a new class named `UserArrayAdapter`.

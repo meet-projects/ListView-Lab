@@ -18,11 +18,13 @@ In this lab, we'll be making well designed pages with the possibilty to move bet
       - you can add any **additional attributes** you want.
     - Using generate, add a constructor, setters, getters and a toString.
 
+
 2. ListView in XML:
     - Add a `ListView` component to your activity layout file.
     - Open an XML file for the **custom row** in the layout folder and design it, should at least include:
         - Name.
         - Email
+
 
 3. Creating an ArrayAdapter: 
     - Create a new class named `UserArrayAdapter`.
@@ -30,6 +32,7 @@ In this lab, we'll be making well designed pages with the possibilty to move bet
     - Get the user object using `getItem()`:
       - Make sure that the object is not null.
     - Get the Views from the custom_row and set the values according to the user objects.
+
 
 4. In the Activity's Java file:
     - Create a user ArrayList and add objects to the list.
